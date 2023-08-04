@@ -15,6 +15,8 @@ In the realm of data analysis, outliers hold a distinctive position, serving as 
 •	Global Outliers: These are data points that significantly deviate from the overall dataset's statistical norms, often indicating exceptional events or measurement errors.<br><br>
 •	Contextual Outliers: Consider attributes or context-specific factors when identifying anomalies, enabling a more nuanced understanding of irregularities within specific subsets of data.<br><br>
 •	Time Series Data: Analyzing outliers in time series involves detecting sudden spikes, drops, or persistent deviations from expected temporal patterns, aiding in trend identification and anomaly detection.<br><br>
+#### Algorithm used
+Prophet Forecasting Algorithm
 #### Packages used
 •	Numpy <br>
 •	Pandas <br>
@@ -23,8 +25,8 @@ In the realm of data analysis, outliers hold a distinctive position, serving as 
 
 #### Dataset used
 New York Taxi Stand Dataset<br>
-Link: https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Link: https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv<br>
 
-
-
+#### Platform used
+Google Colab
 
